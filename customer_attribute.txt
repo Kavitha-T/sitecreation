@@ -1,0 +1,1 @@
+type="customer" image="/publication/customer/logo/elife-logo.png" publication_path="elife" publication_header="Publications" welcome_header="Welcome to Exeter Premedia" welcome_image="/images/exeter_logo_bw.png" proofing_field="63529"
